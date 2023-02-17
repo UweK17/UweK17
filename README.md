@@ -36,9 +36,8 @@
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://mongodb.com" target="_blank" rel-"noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="80" height="80"/>
+  <br>
 </a>
-  <br>
-  <br>
 </p>
 <br>
 
